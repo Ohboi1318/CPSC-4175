@@ -1,0 +1,22 @@
+Homework 1 - Tristan Porter
+
+1. The components are deadlines are not being met; budgets are not being met; delivered software has residual faults; and the quality of the software is generally low.
+
+2. The software life-cycle refers to the entire life of the software, from birth to death. Whereas the software development-cycle refers to the period of time from the beginning of development to the end of development.
+
+3. Perfective maintenance - An example would be if you have finished what the client delivered but the client decides that some extra features should be added to help users effectively use the software. This could be things that the client did not origianlly think of, or things that the software developer might reccomend to the client to improve the software.
+   Adaptive maintenance - An example would be when a piece of software is developed for a certain operating system. Then the operating system gets an update. The already finished piece of software then has to be changed and re-developed to accomadate the changes in the operating system.
+
+4. Hardware is a physical thing and therefore deteriorates with time. Not only that, but it also becomes obselete as newer and more advanced technology comes out. While software on the other hand, gets better with time. This is because bugs and problems are worked out and solved with each newer version of the software that is developed. Software, can also keep up with advanced technology because it can simply be changed to meet the new technology.
+
+5. To me this says that it is cheaper to fix software problems before the project is finished. However, most problems are not caught until after the project is finished. Meaning a lot of money is spent that shouldnt have to be if probelms were caught at an earlier stage.
+
+6. This tells me that the software engineering process is always looping back to planing, testing, and documentation phases. There are no distinct phases because they come up repeatedly. As the development cycle contuniues you may have to go back to one of those phases again. They do not occur in a vacuum because they are all happening at the same time. Documentation in particular is always being done because it should always be up to date.
+
+7. Structured programming techniques form a part of object-oriented programming techniques because they involve the operation of the software. However, object-oriented techniques build upon that and also focus on the attributes of the software.
+
+8. It is more important for the developer to frequently interact with the client. This is because the client is the one paying for the software that is being developed. Even if what you are making is not necessarily what the users want, it is what you are being paid to develop. You must listen to the client.
+
+9. I could always practice coding. One can never perfect coding, but one can get really good. As a computer science major it would be wise for me to always be coding something. Since I plan to do it as a job, it would make sense for me to continue to do it for the rest of my life.
+
+10. The cathedral and the bazaar argues two different development methods. The cathedral method where each release of a software is posted freeely on the internet, but the code work between each release is kept private to the developers. The bazaar method is where all code work on a piece of software is posted freely on the internet. The argument between the two is that the bazaar method allows for better finding of bugs in the code because there are many more eyes looking over the code. In the cathedral method, only the developers can see the code between each release, so there are less eyes looking at the code between each release.
